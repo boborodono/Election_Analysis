@@ -47,4 +47,4 @@ The analysis of the election show that:
 This script can be used in any election -- with modifications -- to determine important information such as:
   1. The breakdown of voter preferences by county to determine where certain candidates are most popular. 
    - This can help to create an ideological map of the electorate.
-  3. Tracking the election race in real time by connecting to relevant polling places and regularly refreshing the program to see ongoing results all the way up until the polls close.
+  2. Tracking the election race in real time by connecting to relevant polling places and regularly refreshing the program to see ongoing results all the way up until the polls close.
